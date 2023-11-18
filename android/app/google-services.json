@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "845002982898",
+    "firebase_url": "https://websoft-55c4c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "websoft-55c4c",
+    "storage_bucket": "websoft-55c4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845002982898:android:882e4628acece27201976b",
+        "android_client_info": {
+          "package_name": "com.example.secret_pr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DGXFJGOdkV_CQ4RU9ZN184J4aHEMoHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
